@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>PayPal_Brazil_Improvements</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Update several versions of Magento Community to better support PayPal for the Brazilian market.</summary>
+    <description>This extension is specific for the Brazilian market. It updates Magento-PayPal integration to support specific features for payments in Brazil.</description>
+    <notes>Aten&amp;#xE7;&amp;#xE3;o: esta extens&amp;#xE3;o simplesmente instala um guia para a instala&amp;#xE7;&amp;#xE3;o efetiva das extens&amp;#xF5;es. Voc&amp;#xEA; ter&amp;#xE1; uma experi&amp;#xEA;ncia melhor de instala&amp;#xE7;&amp;#xE3;o e acesso &amp;#xE0; documenta&amp;#xE7;&amp;#xE3;o visitando https://www.paypal-brasil.com.br/x/magento.&amp;#xD;</notes>
+    <authors><author><name>Paypal BR</name><user>paypalbr</user><email>mnegrini@paypal.com</email></author></authors>
+    <date>2012-07-12</date>
+    <time>16:37:00</time>
+    <contents><target name="magelocal"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="paypalbr.xml" hash=""/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Paypal_Paypalbr.xml" hash=""/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
