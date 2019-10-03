@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/PayPal_Brazil_Improvements",
+    "name": "openmage-module-fostering\/paypal_brazil_improvements",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Update several versions of Magento Community to better support PayPal for the Brazilian market.",
     "authors": [
